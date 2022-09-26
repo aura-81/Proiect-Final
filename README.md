@@ -12,3 +12,14 @@ Proiect Final IT Factory
  - The user should be able to acces the Recently Apdate,Recently Added,Rating,Name and Price butons from Sort by.
  - The user should be able to choose and open a product.
  - The user should be able to user the application on mobile also.
+
+**Project Roles/Needs**
+
+ - 1 Lead developer,
+ - 1 Senior developer,
+ - 2 Mid/Junior developers,
+ - 1 QA Lead,
+ - 1 Senior QA,
+ - 2 Mid/Junior QA,
+ - 1 Project Manager,
+ - The project must be completed in 10 months.
