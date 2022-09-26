@@ -39,3 +39,15 @@ Proiect Final IT Factory
  3. Desired and sufficient coverage of the requirements and functionalities under the test.
  4. All the identified defects are corrected and closed.
  5. No high priority or severity or critical bug has been left out.
+
+**Risks**
+
+ - The amount of man power might not be enough.
+ - The time needed in order to complete the project might extend.
+ - Financial risks.
+ - The need of additional maintenance needed.
+
+**Test Case Design (Based on Project Stories )
+
+**Project Epic**
+
