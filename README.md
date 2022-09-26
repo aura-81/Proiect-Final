@@ -52,4 +52,4 @@ Proiect Final IT Factory
 **Project Epic**
 
  -[**The user should be able to acces OpenCart-Marketplace.**](https://github.com/aura-81/Proiect-Final/blob/main/Epic-Acces%20OpenCart/2022-09-26%20(1).png)
-  -[**The user should be able to acces Markeplace buton**](https://github.com/aura-81/Proiect-Final/blob/main/Story%20Meketplace.png)
+ -[**The user should be able to acces Markeplace buton**](https://github.com/aura-81/Proiect-Final/blob/main/Story%20Meketplace.png)
