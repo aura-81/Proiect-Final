@@ -53,14 +53,14 @@ Proiect Final IT Factory
 
  -[**The user should be able to acces OpenCart-Marketplace.**](https://github.com/aura-81/Proiect-Final/blob/main/Epic-Acces%20OpenCart/2022-09-26%20(1).png)
  
- -[**The user should be able to acces Markeplace buton**](https://github.com/aura-81/Proiect-Final/blob/main/Story%20Meketplace.png)
+ -**The user should be able to acces Markeplace buton**
  
  -**The user should be able to acces the All,Commercial and Free butons from Marketplace**
  
- -[**The user should be able to acces Sort by buton**](https://github.com/aura-81/Proiect-Final/blob/main/Story%20Sort%20by.png)
+ -**The user should be able to acces Sort by buton**
  
  -**The user should be able to acces the Recently Apdate,Recently Added,Rating,Name and Price butons from Sort by**
  
- -[**The user should be able to choose and open a product**](https://github.com/aura-81/Proiect-Final/blob/main/Bug%20Add%20a%20product.png)
+ -**The user should be able to choose and open a product**
  
  -**The user should be able to user the application on mobile also**
