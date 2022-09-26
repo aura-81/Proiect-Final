@@ -73,3 +73,18 @@ Proiect Final IT Factory
 
 **Project Test Cases**
 
+-[**The All buton from Marketplace works correctly**]
+
+-[**The Commercial buton from Marketplace works correctly**]
+
+-[**The Free buton from Marketplace works correctly**]
+
+-[**The Name buton from Marketplace works correctly**]
+
+-[**The Price buton from Marketplace works correctly**]
+
+-[**The Rating buton from Marketplace works correctly**]
+
+-[**The Racently Added buton from Marketplace works correctly**]
+
+-[**The Racently Apdate buton from Marketplace works correctly**]
