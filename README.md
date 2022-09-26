@@ -57,4 +57,4 @@ Proiect Final IT Factory
  
  -**The user should be able to acces the All,Commercial and Free butons from Marketplace**
  
- -[**The user should be able to acces Sort by buton**]
+ -[**The user should be able to acces Sort by buton**](https://github.com/aura-81/Proiect-Final/blob/main/Story%20Sort%20by.png)
