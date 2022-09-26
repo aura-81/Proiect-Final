@@ -64,3 +64,8 @@ Proiect Final IT Factory
  -**The user should be able to choose and open a product**
  
  -**The user should be able to user the application on mobile also**
+ 
+ **Project Stories**
+ 
+ -[**The Marketplace buton shouls be display**](https://github.com/aura-81/Proiect-Final/blob/main/Story%20Meketplace.png)
+ 
