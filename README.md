@@ -75,7 +75,7 @@ Proiect Final IT Factory
 
 -[**The All buton from Marketplace works correctly**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20All%20buton%20from%20Marketplace.png)
 
--[**The Commercial buton from Marketplace works correctly**]
+-[**The Commercial buton from Marketplace works correctly**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Commercial%20from%20Marketplace.png)
 
 -[**The Free buton from Marketplace works correctly**]
 
