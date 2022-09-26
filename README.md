@@ -83,7 +83,7 @@ Proiect Final IT Factory
 
 -[**The Price buton from Marketplace works correctly**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Price%20from%20Marketplace.png)
 
--[**The Rating buton from Marketplace works correctly**]
+-[**The Rating buton from Marketplace works correctly**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Rating%20from%20Marketplace.png)
 
 -[**The Racently Added buton from Marketplace works correctly**]
 
