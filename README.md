@@ -47,7 +47,7 @@ Proiect Final IT Factory
  - Financial risks.
  - The need of additional maintenance needed.
 
-**Test Case Design (Based on Project Stories )
+**Test Case Design** (Based on Project Stories )
 
 **Project Epic**
 
