@@ -23,3 +23,13 @@ Proiect Final IT Factory
  - 2 Mid/Junior QA,
  - 1 Project Manager,
  - The project must be completed in 10 months.
+
+**Entry Criteria**
+
+ 1. Complete or partially testable code is available.
+ 2. Requirements are defined and aproved.
+ 3. Availability of sufficient and desired test data.
+ 4. Test cases are developed and ready.
+ 5. Test environment has been set-up and all other necessary resources such as tools and devices are available.
+
+**Exit Criteria**
