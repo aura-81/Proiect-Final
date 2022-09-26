@@ -62,3 +62,5 @@ Proiect Final IT Factory
  -**The user should be able to acces the Recently Apdate,Recently Added,Rating,Name and Price butons from Sort by**
  
  -[**The user should be able to choose and open a product**](https://github.com/aura-81/Proiect-Final/blob/main/Bug%20Add%20a%20product.png)
+ 
+ -**The user should be able to user the application on mobile also**
