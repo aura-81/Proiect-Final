@@ -6,10 +6,10 @@ Proiect Final IT Factory
 **Project Requirements**
 
  - The user should be able to acces OpenCart-Marketplace.
- - The user should be able to acces Marketplace buton.
- - The user should be able to acces the All,Commercial and Free butons from Marketplace
- - The user should be able to acces Sort by buton.
- - The user should be able to acces the Recently Apdate,Recently Added,Rating,Name and Price butons from Sort by.
+ - The user should be able to acces Marketplace button.
+ - The user should be able to acces the All,Commercial and Free buttons from Marketplace
+ - The user should be able to acces Sort by button.
+ - The user should be able to acces the Recently Apdate,Recently Added,Rating,Name and Price buttons from Sort by.
  - The user should be able to choose and open a product.
  - The user should be able to user the application on mobile also.
 
@@ -53,13 +53,13 @@ Proiect Final IT Factory
 
  -[**The user should be able to acces OpenCart-Marketplace.**](https://github.com/aura-81/Proiect-Final/blob/main/Epic-Acces%20OpenCart/2022-09-26%20(1).png)
  
- -**The user should be able to acces Markeplace buton**
+ -**The user should be able to acces Markeplace button**
  
- -**The user should be able to acces the All,Commercial and Free butons from Marketplace**
+ -**The user should be able to acces the All,Commercial and Free buttons from Marketplace**
  
- -**The user should be able to acces Sort by buton**
+ -**The user should be able to acces Sort by button**
  
- -**The user should be able to acces the Recently Apdate,Recently Added,Rating,Name and Price butons from Sort by**
+ -**The user should be able to acces the Recently Apdate,Recently Added,Rating,Name and Price buttons from Sort by**
  
  -**The user should be able to choose and open a product**
  
@@ -67,27 +67,27 @@ Proiect Final IT Factory
  
  **Project Stories**
  
- -[**The Marketplace buton shouls be display**](https://github.com/aura-81/Proiect-Final/blob/main/Story%20Meketplace.png)
+ -[**The Marketplace button should be displayed**](https://github.com/aura-81/Proiect-Final/blob/main/Story%20Meketplace.png)
  
--[**The Sort by buton should be display**](https://github.com/aura-81/Proiect-Final/blob/main/Story%20Sort%20by.png)
+-[**The Sort by buton should be displayed**](https://github.com/aura-81/Proiect-Final/blob/main/Story%20Sort%20by.png)
 
 **Project Test Cases**
 
--[**The All buton from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20All%20buton%20from%20Marketplace.png)
+-[**The All button from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20All%20buton%20from%20Marketplace.png)
 
--[**The Commercial buton from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Commercial%20from%20Marketplace.png)
+-[**The Commercial button from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Commercial%20from%20Marketplace.png)
 
--[**The Free buton from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Free%20buton%20from%20Marketplace.png)
+-[**The Free button from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Free%20buton%20from%20Marketplace.png)
 
--[**The Name buton from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Name%20from%20Marketplace.png)
+-[**The Name button from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Name%20from%20Marketplace.png)
 
--[**The Price buton from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Price%20from%20Marketplace.png)
+-[**The Price button from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Price%20from%20Marketplace.png)
 
--[**The Rating buton from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Rating%20from%20Marketplace.png)
+-[**The Rating button from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Rating%20from%20Marketplace.png)
 
--[**The Racently Added buton from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Recently%20Added%20from%20Marketplace.png)
+-[**The Racently Added button from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Recently%20Added%20from%20Marketplace.png)
 
--[**The Racently Apdate buton from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Recently%20Apdate%20from%20Marketplace.png)
+-[**The Racently Apdate button from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Recently%20Apdate%20from%20Marketplace.png)
 
 **Test Execution**
 
