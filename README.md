@@ -88,3 +88,6 @@ Proiect Final IT Factory
 -[**The Racently Added buton from Marketplace works correctly**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Recently%20Added%20from%20Marketplace.png)
 
 -[**The Racently Apdate buton from Marketplace works correctly**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Recently%20Apdate%20from%20Marketplace.png)
+
+**Test Execution**
+
