@@ -98,3 +98,7 @@ Proiect Final IT Factory
 -[**The page is not completely display**](https://github.com/aura-81/Proiect-Final/blob/main/Bug%20Display.png)
 
 -[**The user cannot add a product**](https://github.com/aura-81/Proiect-Final/blob/main/Bug%20Add%20a%20product.png)
+
+**Test Report**
+
+-[**Tracebility Matrix**](https://github.com/aura-81/Proiect-Final/blob/main/Traceability%20Matrix.png)
