@@ -73,21 +73,21 @@ Proiect Final IT Factory
 
 **Project Test Cases**
 
--[**The All buton from Marketplace works correctly**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20All%20buton%20from%20Marketplace.png)
+-[**The All buton from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20All%20buton%20from%20Marketplace.png)
 
--[**The Commercial buton from Marketplace works correctly**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Commercial%20from%20Marketplace.png)
+-[**The Commercial buton from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Commercial%20from%20Marketplace.png)
 
--[**The Free buton from Marketplace works correctly**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Free%20buton%20from%20Marketplace.png)
+-[**The Free buton from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Free%20buton%20from%20Marketplace.png)
 
--[**The Name buton from Marketplace works correctly**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Name%20from%20Marketplace.png)
+-[**The Name buton from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Name%20from%20Marketplace.png)
 
--[**The Price buton from Marketplace works correctly**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Price%20from%20Marketplace.png)
+-[**The Price buton from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Price%20from%20Marketplace.png)
 
--[**The Rating buton from Marketplace works correctly**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Rating%20from%20Marketplace.png)
+-[**The Rating buton from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Rating%20from%20Marketplace.png)
 
--[**The Racently Added buton from Marketplace works correctly**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Recently%20Added%20from%20Marketplace.png)
+-[**The Racently Added buton from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Recently%20Added%20from%20Marketplace.png)
 
--[**The Racently Apdate buton from Marketplace works correctly**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Recently%20Apdate%20from%20Marketplace.png)
+-[**The Racently Apdate buton from Marketplace takes the user to the correct section**](https://github.com/aura-81/Proiect-Final/blob/main/Test%20case%20Recently%20Apdate%20from%20Marketplace.png)
 
 **Test Execution**
 
