@@ -92,3 +92,8 @@ Proiect Final IT Factory
 **Test Execution**
 
 -[**Test Cycle**](https://github.com/aura-81/Proiect-Final/blob/main/Cycle%20Summary.png)
+
+**Project Issues**
+
+-[**The page is not completely display**](https://github.com/aura-81/Proiect-Final/blob/main/Bug%20Display.png)
+
