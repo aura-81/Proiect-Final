@@ -67,7 +67,7 @@ Proiect Final IT Factory
  
  **Project Stories**
  
- -[**The Marketplace button should be displayed**]()
+ -[**The Marketplace button should be displayed**](https://github.com/aura-81/Proiect-Final/blob/main/Story%20Meketplace.png)
  
 -[**The Sort by buton should be displayed**](https://github.com/aura-81/Proiect-Final/blob/main/Story%20Sort%20by.png)
 
